@@ -1,0 +1,9 @@
+name: karate
+version: 0.1.0
+
+authors:
+  - Victor Pereira <vpereirabr@gmail.com>
+
+crystal: 0.23.0+313
+
+license: MIT
